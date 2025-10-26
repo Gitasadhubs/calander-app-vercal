@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Calendar",
+  "description": "A visually appealing, interactive calendar application powered by React and Tailwind CSS. It allows users to add and view events for each day and leverages the Gemini API to generate a unique, fun theme or fact for every month, adding a touch of personality and discovery to your schedule.",
+  "requestFramePermissions": []
+}
